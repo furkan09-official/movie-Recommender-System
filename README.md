@@ -13,14 +13,6 @@ Content-Based Filtering**: Suggests movies based on the content features such as
 
 User Interface**: A simple web interface for users to interact with the recommender system and get movie suggestions.
 
-## Installation
-
-1. Clone the repository:
-
-   bash
-   git clone https://github.com/furkan09-official-system.git
-   cd movie-recommender-system
-   
 
 
 ## Usage
