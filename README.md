@@ -27,10 +27,6 @@ This project uses a movie dataset that includes information such as movie titles
 
 Contributions are welcome! If you have any suggestions, ideas, or want to contribute code, feel free to open a pull request or issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspiration from existing recommender systems like Netflix and Amazon.
